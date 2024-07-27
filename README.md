@@ -1,4 +1,4 @@
-DOV Analytics is online analytics of user visits for web-projects.
+DOV Analytics is online analytics of user visits for web-projects
 
 You will receive information:
 
