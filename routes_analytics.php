@@ -1,4 +1,3 @@
-
 <?php
 
 use \Projects\Analytics\App\Controllers\Controller_Analytics;

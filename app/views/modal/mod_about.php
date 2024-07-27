@@ -42,7 +42,7 @@
       </ul>
   
   <p class="text-center mt-3"> 
-    <a href="" class="text-decoration-underline text-dark" target="_blank">
+    <a href="https://github.com/oleksiidan/dov-analytics" class="text-decoration-underline text-dark" target="_blank">
         <i class="bi bi-github pe-1 1text-black"></i> <span class="1text-decoration-underline">DOV Analytics on GitHub</span>
     </a>
   </p>
